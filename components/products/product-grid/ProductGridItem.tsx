@@ -1,6 +1,6 @@
 "use client";
 
-import { Product } from "@/components/interfaces";
+import { Product } from "@/index";
 import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
@@ -14,7 +14,7 @@ export function ProductGridItem({ product }: Props) {
 
   return (
     <div className="rounded-md overflow-hidden fade-in">
-      <Link href={`/products/${product.slug}`}>
+      <Link href={`/product/${product.slug}`}>
         {product.title}
         <Image
           src={`/products/${displayImage}`}
@@ -24,13 +24,11 @@ export function ProductGridItem({ product }: Props) {
           height={500}
           onMouseEnter={() => setDisplayImage(product.images[1])}
           onMouseLeave={() => setDisplayImage(product.images[0])}
+          priority // Asegura que la imagen se cargue con alta prioridad
         />
       </Link>
       <div className="p-4 flex flex-col">
-        <Link
-          className="hover:text-blue-700"
-          href={`/products/${product.slug}`}
-        >
+        <Link className="hover:text-blue-700" href={`/product/${product.slug}`}>
           {product.title}
         </Link>
         <span className="font-bold">${product.price}</span>
