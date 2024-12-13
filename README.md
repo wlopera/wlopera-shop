@@ -128,3 +128,40 @@ found 0 vulnerabilities
 ![image](https://github.com/user-attachments/assets/b9792dec-e32e-4fc1-8261-722647d09098)
 
 * ver documento: https://github.com/wlopera/wlopera-shop/tree/master/doc/Wlopera-Shop.docx
+
+
+### Detalles del producto
+
+Crear lógica para mostrar detalles del producto
+
+![image](https://github.com/user-attachments/assets/9a3a2d0a-0062-4f90-a537-7b97ddeb111f)
+
+
+### Crear SlideShow
+
+Uso de librería SwiperJS 
+
+https://swiperjs.com/ 
+
+![image](https://github.com/user-attachments/assets/117a0112-e3de-4031-8f83-f0d28f9d51a6)
+
+![image](https://github.com/user-attachments/assets/2eb0446b-a38d-4115-87d1-7f5eceef72a3)
+
+
+### Salida
+
+![image](https://github.com/user-attachments/assets/068c3326-3883-4a27-a8c9-3ae81c157752)
+
+* Formato Destop
+
+![image](https://github.com/user-attachments/assets/79c99d93-3f30-4c47-aeaf-8dcdafa2a2a2)
+
+![image](https://github.com/user-attachments/assets/9ec0cb05-7029-4c32-93e0-2e8f58495ac1)
+
+
+* Formato Mobile
+
+![image](https://github.com/user-attachments/assets/21353734-ba91-44e5-82fe-786f508467f4)
+![image](https://github.com/user-attachments/assets/a250c251-5065-4797-800d-50f0cfb91ea0)
+
+
