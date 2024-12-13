@@ -115,4 +115,16 @@ added 1 package, and audited 374 packages in 1s
 found 0 vulnerabilities
 ```
 
+### Salida
 
+![image](https://github.com/user-attachments/assets/cf8b67e6-59f7-47a4-9559-0d7e5f8d4213)
+
+![image](https://github.com/user-attachments/assets/3e1eef4e-f8e0-4d83-800c-6fd0a611d053)
+
+![image](https://github.com/user-attachments/assets/1a056b04-43d0-47b4-8a96-d3abb6674c54)
+
+* En caso de error
+  
+![image](https://github.com/user-attachments/assets/b9792dec-e32e-4fc1-8261-722647d09098)
+
+* ver documento: https://github.com/wlopera/wlopera-shop/tree/master/doc/Wlopera-Shop.docx
