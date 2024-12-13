@@ -1,4 +1,4 @@
-import { Product } from "@/components/interfaces";
+import { Product } from "@/index";
 import { ProductGridItem } from "./ProductGridItem";
 
 interface Props {
